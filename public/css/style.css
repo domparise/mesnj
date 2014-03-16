@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	font-family: 'Trebuchet MS';
+	padding: 5%;
+}
+
+header {
+	opacity: 0;
+}
+
+article {
+	opacity: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #007CB2;
+}
+
+a:hover {
+	border-bottom: 2px solid #FF9923;
+}
